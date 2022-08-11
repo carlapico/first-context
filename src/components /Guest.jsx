@@ -1,7 +1,7 @@
 export default function Guest () {
     return (
         <>
-            Guest
+            <h1>Guest</h1>
         </>
     )
 }
